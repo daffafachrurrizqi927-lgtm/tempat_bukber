@@ -281,4 +281,4 @@ if not df.empty:
                 </div>
             """, unsafe_allow_html=True)
             
-            st.info("💡 Klik tombol hijau di atas untuk mengirimkan otomatis ke WhatsApp Panitia, atau bisa juga kamu ketik manual di Grup WA kita!")
+            st.info("💡 Klik tombol hijau di atas untuk mengirimkan otomatis, lalu kirim ke Grup just mipa 5!")
